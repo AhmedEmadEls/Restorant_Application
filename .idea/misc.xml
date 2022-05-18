@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.223" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/drawable/custom_btn.xml" value="0.229" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/activity_creat_ordar.xml" value="0.259375" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/app_toolbar.xml" value="0.264" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/fragment_pasta.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/fragment_pizza.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/fragment_stors.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/layout/fragment_top.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/xcx90/AndroidStudioProjects/Restorant_Application/app/src/main/res/menu/manu_app.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
