@@ -8,6 +8,5 @@
         android:title="Creat ordar"
         android:icon="@drawable/ic_add_white_24dp"
         app:showAsAction="ifRoom"
-
         />
 </menu>

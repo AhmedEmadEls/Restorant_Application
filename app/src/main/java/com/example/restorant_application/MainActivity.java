@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+    int x ;
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.manu_app , menu);
